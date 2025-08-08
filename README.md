@@ -1,5 +1,3 @@
-
-[README (5).md](https://github.com/user-attachments/files/21689299/README.5.md)
 # LLM-Powered Intelligent Query–Retrieval System
 
 ## 🚀 Overview
