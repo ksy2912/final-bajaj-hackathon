@@ -38,7 +38,7 @@ from typing import List, Optional
 
 # --- CONFIGURATION ---
 API_TOKEN = "407ec480fc8736fa886a97555ef36f9aaf987fdddbcccb94ce9c908530f6fbc9"
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "AIzaSyD5PognQvrpQkOx7Q1Chb0QcCHXD1KMAAs")
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "AIzaSyBhwxPL7VOqfXSKJ-A-6TotiPpg-fWVPQQ")
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
